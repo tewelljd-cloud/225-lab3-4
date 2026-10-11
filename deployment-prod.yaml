@@ -39,7 +39,7 @@ metadata:
   name: prod-ingress
 spec:
   rules:
-    - host: lab3-4.local
+    - host: prod-lab3-4.local
       http:
         paths:
           - path: /
